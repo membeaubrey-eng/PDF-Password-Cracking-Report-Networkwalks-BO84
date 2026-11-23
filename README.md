@@ -79,8 +79,8 @@ Based on the authorized assessment, **An authorized test of the Locked PDF recov
 
 
 ### Figure A1 — Authorized test document
-**[Insert screenshot here]**  
-*Caption: [Show only the document identifier or test context; redact sensitive content.]*
+**[JTR installation software.png]**  
+*Caption: Software installation of JTR*
 
 ### Figure A2 — John the Ripper result
 **[Insert screenshot here, if used]**  
