@@ -55,7 +55,7 @@ Detailed operational steps and sensitive values are omitted from this report. Su
 
 | Tool | Used? | Result | Evidence reference |
 |---|---:|---|---|
-| John the Ripper | Yes| password cracked | [Screenshot ID] |
+| John the Ripper | Yes| password cracked | https://github.com/membeaubrey-eng/PDF-Password-Cracking-Report-Networkwalks-BO84/blob/main/JTR%20shot.png |
 | Hashcracker Online | Yes| hash cracked | [Screenshot ID] |
 | Networkwalks Online | Yes | hash cracked | [Screenshot ID] |
 | Networkwalks Online | [Yes | Password cracked | [Screenshot ID] |
