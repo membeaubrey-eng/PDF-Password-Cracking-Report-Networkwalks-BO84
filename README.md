@@ -82,6 +82,10 @@ Based on the authorized assessment, **An authorized test of the Locked PDF recov
 ![JTR installation software](https://raw.githubusercontent.com/membeaubrey-eng/PDF-Password-Cracking-Report-Networkwalks-BO84/main/JTR%20installation%20software.png)
 ![ JTR 7zip file]( https://github.com/membeaubrey-eng/PDF-Password-Cracking-Report-Networkwalks-BO84/blob/main/JTR%207zip%20file.png)
 ![ Setup]( https://github.com/membeaubrey-eng/PDF-Password-Cracking-Report-Networkwalks-BO84/blob/main/Setup.png)
+![ Software installation continuation]( https://github.com/membeaubrey-eng/PDF-Password-Cracking-Report-Networkwalks-BO84/blob/main/Software%20installation%20continuation.png)
+![ jtr settings]( https://github.com/membeaubrey-eng/PDF-Password-Cracking-Report-Networkwalks-BO84/blob/main/jtr%20settings.png )
+![ jtr setings done]( https://github.com/membeaubrey-eng/PDF-Password-Cracking-Report-Networkwalks-BO84/blob/main/jtr%20setings%20done.png)
+
 
 
  
