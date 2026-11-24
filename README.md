@@ -92,16 +92,17 @@ Based on the authorized assessment, **An authorized test of the Locked PDF recov
 *Caption: Software installation of JTR*
 
 ### Figure A2 — John the Ripper result
-**[Insert screenshot here, if used]**  
-*Caption: [Summarize the relevant result. Redact passwords and sensitive values.]*
+![ JTR shot ]( https://github.com/membeaubrey-eng/PDF-Password-Cracking-Report-Networkwalks-BO84/blob/main/JTR%20shot.png)  
+*Caption: PDF Password Cracked*
 
 ### Figure A3 — Hashcracker Online result
-**[Insert screenshot here, if used]**  
-*Caption: [Summarize the relevant result. Redact passwords, submitted data, and account details.]*
+![ pdf online extractor]( https://github.com/membeaubrey-eng/PDF-Password-Cracking-Report-Networkwalks-BO84/blob/main/pdf%20online%20extractor.png )  
+*Caption: PDF hash extracted*
 
 ### Figure A4 — Networkwalks Online result
-**[Insert screenshot here, if used]**  
-*Caption: [Summarize the relevant result. Redact passwords, submitted data, and account details.]*
+![ Networkwalks hash cracking]( https://github.com/membeaubrey-eng/PDF-Password-Cracking-Report-Networkwalks-BO84/blob/main/Networkwalks%20hash%20cracking.png )
+![ Networkwalks password cracking]( https://github.com/membeaubrey-eng/PDF-Password-Cracking-Report-Networkwalks-BO84/blob/main/Networkwalks%20password%20cracking.png )
+*Caption: PDF Hash extracted and password cracked*
 
 ### Figure A5 — Final verification
 **[Insert screenshot here, if appropriate]**  
