@@ -80,6 +80,8 @@ Based on the authorized assessment, **An authorized test of the Locked PDF recov
 
 ### Figure A1 — John The Ripper Installation
 ![JTR installation software](https://raw.githubusercontent.com/membeaubrey-eng/PDF-Password-Cracking-Report-Networkwalks-BO84/main/JTR%20installation%20software.png)
+![JTR installation software](https://raw.githubusercontent.com/membeaubrey-eng/PDF-Password-Cracking-Report-Networkwalks-BO84/main/JTR%20installation%20software.png)
+![JTR installation software](https://raw.githubusercontent.com/membeaubrey-eng/PDF-Password-Cracking-Report-Networkwalks-BO84/main/JTR%20installation%20software.png)
 
  
 *Caption: Software installation of JTR*
