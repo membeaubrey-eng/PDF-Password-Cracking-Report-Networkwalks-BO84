@@ -105,5 +105,9 @@ Based on the authorized assessment, **An authorized test of the Locked PDF recov
 *Caption: PDF Hash extracted and password cracked*
 
 ### Figure A5 — Final verification
-**[Insert screenshot here, if appropriate]**  
-*Caption: [Show only the minimum evidence needed to substantiate the conclusion.]*
+![ Cracked ]( https://github.com/membeaubrey-eng/PDF-Password-Cracking-Report-Networkwalks-BO84/blob/main/cracked.png )
+![ password cracked 2 ]( https://github.com/membeaubrey-eng/PDF-Password-Cracking-Report-Networkwalks-BO84/blob/main/password%20cracked%202.png)
+![ pdf opened 3]( https://github.com/membeaubrey-eng/PDF-Password-Cracking-Report-Networkwalks-BO84/blob/main/pdf%20opened%203.png)
+
+
+*Caption: PDF opened*
